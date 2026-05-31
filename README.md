@@ -1,27 +1,34 @@
-<h1 align="center">Hi 👋, I'm Mehmet Özçelik</h1>
-<h3 align="center">I am a student in the Computer Engineering department at Gazi University.</h3>
+# Hi 👋, I'm Mehmet Özçelik
 
-- 🌱 I’m currently learning **Python**
+## 🔗 Junior Software Developer
 
-- 💬 Ask me about **Python**
+- 💻 I’m interested in **Backend Development, Artificial Intelligence, Data Science and Computer Vision**
+- 🎯 I’m working on improving myself in **Backend Development and AI-based systems**
+- 📫 How to reach me: **mehmetozcelikk02@gmail.com**
 
-- 📫 How to reach me **mehmetozcelikk02@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mehmettozcelikk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mehmettozcelikk" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mehhmettozcelik5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehhmettozcelik5" height="30" width="40" /></a>
-<a href="https://medium.com/@mehmetozcelikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehmetozcelikk" height="30" width="40" /></a>
-</p>
+## Connect with me:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<a href="www.linkedin.com/in/mehmettozcelikk" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmettozcelikk&show_icons=true&locale=en&layout=compact" alt="mehmettozcelikk" /></p>
+<a href="[BURAYA_MEDIUM_LINKIN](https://medium.com/@mehmetozcelikk)" target="_blank">
+  <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmettozcelikk&show_icons=true&locale=en" alt="mehmettozcelikk" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmettozcelikk&" alt="mehmettozcelikk" /></p>
+## Languages and Tools:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmettozcelikk&label=Profile%20views&color=0e75b6&style=flat" alt="mehmettozcelikk" /> </p>
-
+<img src="https://img.shields.io/badge/JAVA-f89820?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
