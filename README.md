@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="[BURAYA_MEDIUM_LINKIN](https://medium.com/@mehmetozcelikk)" target="_blank">
+  <a href="[https://medium.com/@mehmetozcelikk](https://medium.com/@mehmetozcelikk)" target="_blank">
     <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
